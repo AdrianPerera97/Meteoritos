@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/player_orange.png-aff97e33f9334e2c3443abd5acf6e9c7.stex"
+path="res://.import/player_orange.png-3251fe2ba6dc82cc2fe65438d7d397dd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Naves/Player/player_orange.png"
-dest_files=[ "res://.import/player_orange.png-aff97e33f9334e2c3443abd5acf6e9c7.stex" ]
+source_file="res://Juego/Naves/Player/player_orange.png"
+dest_files=[ "res://.import/player_orange.png-3251fe2ba6dc82cc2fe65438d7d397dd.stex" ]
 
 [params]
 
