@@ -20,5 +20,4 @@ can_sleep = false
 environment = ExtResource( 2 )
 
 [node name="EnemigoDummy" parent="." instance=ExtResource( 5 )]
-position = Vector2( 530.52, 171.864 )
-z_as_relative = false
+position = Vector2( 506.03, -10.6909 )
